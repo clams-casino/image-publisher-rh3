@@ -4,7 +4,7 @@ Turn off duckiebot interface containers first to use camera
 
 Build it on the duckiebot. Assuming in the root directory of the repo
 ```
-devel build -f -H <duckiebot name>.local
+dts devel build -f -H <duckiebot name>.local
 ```
 
 Running it on the duckiebot
